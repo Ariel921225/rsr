@@ -31,7 +31,7 @@ django-simple-pagination==1.1.8
 django-watson==1.4.3
 django-webpack-loader==0.5.0
 django-widget-tweaks==1.4.1
-djangorestframework==3.7.1
+djangorestframework==3.11.2
 docker-py==1.7.2
 dockerpty==0.4.1
 docopt==0.6.2
