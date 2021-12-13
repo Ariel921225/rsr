@@ -83,7 +83,7 @@ html5lib==1.0.1
 httplib2==0.10.3
 idna==2.6
 jmespath==0.9.3
-lxml==4.1.0
+lxml==4.6.5
 msgpack-numpy==0.4.1
 msgpack-python==0.5.1
 murmurhash==0.28.0
